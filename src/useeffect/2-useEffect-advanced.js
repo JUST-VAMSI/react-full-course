@@ -7,7 +7,7 @@ function Index() {
     useEffect(()=>{
         const resizeHandler=()=>{
             setPageWidth(window.innerWidth);};
-            
+      
         window.addEventListener("resize",resizeHandler);
         
         console.log("i am coming from useEffect",count);

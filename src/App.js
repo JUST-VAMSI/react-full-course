@@ -1,10 +1,12 @@
-import React,{useState} from "react";
-import Final from "./useeffect/2-useEffect-advanced";
+import React from "react";
+import Final from "./useeffect/3-useEffect-example-1";
+
+
 function App() {
-  useState();
+
   return (
-   <Final/>
+   <Final />
   );
-}
+};
 
 export default App;
