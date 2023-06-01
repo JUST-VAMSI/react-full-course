@@ -1,5 +1,5 @@
 import React from "react";
-import Final from "./6-useMemo/1-useMemo-ex1";
+import Final from "./7-useCallback/1-useCallback-ex1";
 
 
 function App() {
