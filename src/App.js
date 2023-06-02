@@ -1,11 +1,15 @@
 import React from "react";
-import Final from "./7-useCallback/1-useCallback-ex1";
+import Final from "./8-custome hook/TitleChange";
+import Final2 from "./8-custome hook/Titlechange2"
 
 
 function App() {
 
   return (
-   <Final />
+    <div>
+   <Final/>
+   <Final2/>
+   </div>
   );
 };
 
