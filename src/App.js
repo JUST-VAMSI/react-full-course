@@ -1,6 +1,6 @@
 import React from "react";
-import Final from "./8-custome hook/TitleChange";
-import Final2 from "./8-custome hook/Titlechange2"
+import Final from "./8-custome hook/FirstCounter";
+import Final2 from "./8-custome hook/SecondCounter"
 
 
 function App() {
