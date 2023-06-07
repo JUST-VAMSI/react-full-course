@@ -1,6 +1,6 @@
 import React from "react";
-import Final from "./8-custome hook/FirstCounter";
-import Final2 from "./8-custome hook/SecondCounter"
+import Final from "./8-custome hook/FirstAPI";
+import Final2 from "./8-custome hook/SecondAPI"
 
 
 function App() {
