@@ -7,7 +7,18 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+nav{
+  padding:20px;
+  background-color:lightblue;
+}
+nav a{
+  margin-right:10px;
+  text-decoration: none;
+}
+nav a.active{
+  background-color:blanchedalmond;
+  color:black;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
