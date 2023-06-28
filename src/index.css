@@ -8,16 +8,20 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 nav{
+  float:left;
+  text-align: left;
+  font-weight: bold;
+  font-size: large;
+  width:100%;
   padding:20px;
   background-color:lightblue;
 }
 nav a{
-  margin-right:10px;
+  padding:2%;
   text-decoration: none;
 }
 nav a.active{
-  background-color:blanchedalmond;
-  color:black;
+  color:green;
 }
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',

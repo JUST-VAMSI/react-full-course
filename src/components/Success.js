@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 function Success() {
     const navigate= useNavigate();
     const navigateToHome=()=>{
-        navigate("../");
+        navigate("../"); 
     }
   return (
     <div>
